@@ -1,0 +1,8 @@
+[package]
+name = "first_rust"
+version = "0.1.0"
+authors = ["adefirmanf_98 <ade.fauzi@payfazz.com>"]
+
+[dependencies]
+hyper = "0.12.11"
+chrono = "0.4.6"
